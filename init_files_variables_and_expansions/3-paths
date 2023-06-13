@@ -1,2 +1,2 @@
 #!/bin/bash
-find $bash -type f -depth 1 | wc -l
+echo $PATH -type f -depth 1 | wc -l
